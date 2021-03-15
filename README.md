@@ -61,8 +61,7 @@ _아래 참여자 이름을 클릭하면, 팀원 개인 github 페이지로 이�
 
 ### 사용기술 (수정 예정)
 - FrontEnd : React
-- BackEnd : Express
-- Server : Node.js
+- BackEnd :  nodejs express
 
 ### 화면 구성 UI
 <table>
